@@ -1,8 +1,6 @@
-ccxt
 pandas
 numpy
-ta-lib  # or pandas-ta
-python-telegram-bot
 python-dotenv
-websocket-client
-matplotlib  # for charts
+python-telegram-bot
+ccxt
+asyncio
